@@ -1,4 +1,4 @@
-# DevOps + Cloud Journey 🚀
+# DevOps + Cloud Journey 
 
 This repository tracks my hands-on journey to mastering **DevOps** practices, **Cloud technologies**, and **Infrastructure as Code** through real-world projects and applications.
 
@@ -54,7 +54,7 @@ These are the projects I’ve worked on so far, each representing a step forward
 
 | Skill / Project         | Repo Link                                      | Status        |
 |-------------------------|------------------------------------------------|---------------|
-| **Linux Practice**       | [linux-practice]() | 🟡 In Progress  |
+| **Linux Practice**       | [linux-practice] In Progess | 🟡 In Progress  |
 | **AWS EC2 Setup**        | [aws-bootcamp] comming soon | 🔲 Not Started |
 | **Docker & CI/CD**       | [docker-ci-cd] comming soon | 🔲 Not Started |
 | **Terraform Lab**        | [terraform-lab] comming soon | 🔲 Not Started |
